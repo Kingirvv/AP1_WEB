@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author GB
- *
- */
-module ttt {
-}
